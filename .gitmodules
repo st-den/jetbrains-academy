@@ -1,0 +1,3 @@
+[submodule "loan-calculator"]
+	path = loan-calculator
+	url = https://github.com/hematogender/loan-calculator
