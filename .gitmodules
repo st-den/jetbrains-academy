@@ -1,6 +1,0 @@
-[submodule "loan-calculator"]
-	path = loan-calculator
-	url = https://github.com/hematogender/loan-calculator
-[submodule "tic-tac-toe"]
-	path = tic-tac-toe
-	url = https://github.com/hematogender/tic-tac-toe
