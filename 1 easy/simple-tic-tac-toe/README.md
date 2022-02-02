@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Simple Tic-Tac-Toe
 
 Project page: https://hyperskill.org/projects/73
 
