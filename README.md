@@ -20,6 +20,7 @@ https://hyperskill.org/tracks/2#projects
 - Markdown Editor `CLI` `markdown`
 - Numeric Matrix Processor `CLI` `OOP` `lin algebra` `functional`
 - Robogotchi `CLI` `OOP`
+- Read Quality Control `bioinformatics` `data processing`
 - Rock-Paper-Scissors `CLI` `OOP`
 - Simple Banking System `CLI` `SQL` `sqlite3`
 - Web Scraper `requests` `bs4`
