@@ -21,6 +21,7 @@ https://hyperskill.org/tracks/2#projects
 - Numeric Matrix Processor `CLI` `OOP` `lin algebra` `functional`
 - Robogotchi `CLI` `OOP`
 - Read Quality Control `bioinformatics` `data processing`
+- Readability Score `NLP` `re`
 - Rock-Paper-Scissors `CLI` `OOP`
 - Simple Banking System `CLI` `SQL` `sqlite3`
 - Web Scraper `requests` `bs4`
