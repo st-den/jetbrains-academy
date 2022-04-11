@@ -17,6 +17,7 @@ https://hyperskill.org/tracks/2#projects
 - Currency Converter `requests` `caching`
 - Dominoes `CLI` `OOP` `AI`
 - Hangman `CLI`
+- Knight's Tour Puzzle `CLI` `OOP` `backtracking` `DFS`
 - Markdown Editor `CLI` `markdown`
 - Numeric Matrix Processor `CLI` `OOP` `lin algebra` `functional`
 - Robogotchi `CLI` `OOP`
