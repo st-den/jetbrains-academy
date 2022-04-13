@@ -30,6 +30,7 @@ https://hyperskill.org/tracks/2#projects
 ## Hard
 
 - Duplicate File Handler `CLI` `os` `hashing`
+- Key Terms Extraction `NLP` `nltk` `scikit-learn`
 - Multilingual Online Translator `CLI` `argparse` `requests` `bs4`
 - Regex Engine `NLP` `re` `unittest` `coding golf`
 - Text Generator `NLP` `Markov chain` `re`
