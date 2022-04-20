@@ -42,5 +42,6 @@ https://hyperskill.org/tracks/2#projects
 ## Challenging
 
 - Easy Rider Bus Company `data manipulation` `json` `re` `itertools`
+- Flashcards `CLI` `OOP` `argparse` `io` `json`
 - Password Hacker `socket` `combinatorics`
 - Smart Calculator `stack` `queue` `infix/postfix`
